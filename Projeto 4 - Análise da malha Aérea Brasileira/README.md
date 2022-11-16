@@ -9,4 +9,4 @@ Este trabalho tem como objetivo fazer uma análise (em Python) dos dados da malh
 - Gabriela Cruz Targino 
 - Keven Alison dos Santos Bezerra
 
-Obs: Os arquivos utilizados para a execução deste trabalho tiveram como fonte o repositório do desenvolvedro Alvaro "https://github.com/alvarofpp/dataset-flights-brazil"
+Obs: Os arquivos utilizados para a execução deste trabalho tiveram como fonte o repositório do desenvolvedor [Alvaro](https://github.com/alvarofpp/dataset-flights-brazil)
