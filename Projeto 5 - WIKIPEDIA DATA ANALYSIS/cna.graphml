@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="contraction" attr.type="long"/>
+<key id="d0" for="node" attr.name="contraction" attr.type="long"/>
+<graph edgedefault="directed"><node id="Andrew Kenny (Singer)">
+  <data key="d0">0</data>
+</node>
+<node id="The Time Traveler'S Wife (Film)">
+  <data key="d0">0</data>
+</node>
+<node id="Know By Heart">
+  <data key="d0">0</data>
+</node>
+<node id="Pitchforkmedia">
+  <data key="d0">0</data>
+</node>
+<node id="Cmj New Music Monthly">
+  <data key="d0">0</data>
+</node>
+<node id="The Golden Band">
+  <data key="d0">0</data>
+</node>
+<node id="Indie Rock">
+  <data key="d0">0</data>
+</node>
+<node id="Record Label">
+  <data key="d0">0</data>
+</node>
+<node id="Album">
+  <data key="d0">0</data>
+</node>
+<node id="The American Analog Set">
+  <data key="d0">0</data>
+</node>
+<node id="Mbrg (Identifier)">
+  <data key="d0">0</data>
+</node>
+<node id="The Postal Service">
+  <data key="d0">0</data>
+</node>
+<node id="Tiger Style Records">
+  <data key="d0">0</data>
+</node>
+<node id="Death Cab For Cutie">
+  <data key="d0">0</data>
+</node>
+<node id="Music Genre">
+  <data key="d0">0</data>
+</node>
+<node id="Allmusic">
+  <data key="d0">0</data>
+</node>
+<edge source="Andrew Kenny (Singer)" target="Allmusic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Kenny (Singer)" target="Know By Heart">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Kenny (Singer)" target="The American Analog Set">
+  <data key="d1">0</data>
+</edge>
+<edge source="Andrew Kenny (Singer)" target="The Golden Band">
+  <data key="d1">0</data>
+</edge>
+<edge source="The Time Traveler'S Wife (Film)" target="Indie Rock">
+  <data key="d1">0</data>
+</edge>
+<edge source="The Time Traveler'S Wife (Film)" target="Record Label">
+  <data key="d1">0</data>
+</edge>
+<edge source="The Time Traveler'S Wife (Film)" target="The American Analog Set">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Album">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Allmusic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Andrew Kenny (Singer)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Cmj New Music Monthly">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Death Cab For Cutie">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Indie Rock">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Mbrg (Identifier)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Music Genre">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Pitchforkmedia">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Record Label">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="The American Analog Set">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="The Golden Band">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="The Postal Service">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="The Time Traveler'S Wife (Film)">
+  <data key="d1">0</data>
+</edge>
+<edge source="Know By Heart" target="Tiger Style Records">
+  <data key="d1">0</data>
+</edge>
+<edge source="Pitchforkmedia" target="Indie Rock">
+  <data key="d1">0</data>
+</edge>
+<edge source="Pitchforkmedia" target="Music Genre">
+  <data key="d1">0</data>
+</edge>
+<edge source="Indie Rock" target="Death Cab For Cutie">
+  <data key="d1">0</data>
+</edge>
+<edge source="Record Label" target="Album">
+  <data key="d1">0</data>
+</edge>
+<edge source="Record Label" target="Indie Rock">
+  <data key="d1">0</data>
+</edge>
+<edge source="Album" target="Music Genre">
+  <data key="d1">0</data>
+</edge>
+<edge source="Album" target="Record Label">
+  <data key="d1">0</data>
+</edge>
+<edge source="The American Analog Set" target="Andrew Kenny (Singer)">
+  <data key="d1">0</data>
+</edge>
+<edge source="The American Analog Set" target="Indie Rock">
+  <data key="d1">0</data>
+</edge>
+<edge source="The American Analog Set" target="Know By Heart">
+  <data key="d1">0</data>
+</edge>
+<edge source="The American Analog Set" target="The Golden Band">
+  <data key="d1">0</data>
+</edge>
+<edge source="The American Analog Set" target="The Time Traveler'S Wife (Film)">
+  <data key="d1">0</data>
+</edge>
+<edge source="The American Analog Set" target="Tiger Style Records">
+  <data key="d1">0</data>
+</edge>
+<edge source="The Postal Service" target="Allmusic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Death Cab For Cutie" target="Allmusic">
+  <data key="d1">0</data>
+</edge>
+<edge source="Death Cab For Cutie" target="Indie Rock">
+  <data key="d1">0</data>
+</edge>
+<edge source="Death Cab For Cutie" target="The Postal Service">
+  <data key="d1">0</data>
+</edge>
+<edge source="Music Genre" target="Album">
+  <data key="d1">0</data>
+</edge>
+<edge source="Music Genre" target="Record Label">
+  <data key="d1">0</data>
+</edge>
+<edge source="Allmusic" target="Album">
+  <data key="d1">0</data>
+</edge>
+</graph></graphml>
