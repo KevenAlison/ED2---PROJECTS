@@ -75,3 +75,12 @@ Para uma análise mais comparativa plotamos os gráficos correspondentes às mé
 <p align="center">
   <img width="70%" src="./Figuras/all.jpg">
 </p>
+
+### Decomposição do Core
+<p align="center">
+  <img width="70%" src="./Figuras/k-core_sociopatterns.jpg">
+</p>
+
+### Análise dos dados através do Software GELPHI
+Enquanto realizavamos nosso trabalhao percebemos certas dificuldades em analisar a nossa rede quando ela estava muito extensa, fazedno com que reduzissemos bastante o numero de nós e links para que fosse possível uma visualização mais legível. Visando uma análise mais detalhada sobre a rede, utilizamos o software Gelphi para visualizarmos a nossa rede e suas características.
+Agora que possuimos uma ferramente mais avançada, reduzimos algumas limitações na geração da nossa rede, permitindo que um grafo com mais nós e conexões fosse gerado. A partir dele utilizaremos plugins para gerar uma rede que seja capaz de transmitir suas informações visualmente através de sua divisão em comunidades, os quais representarão uma determinada métrica desejada.
