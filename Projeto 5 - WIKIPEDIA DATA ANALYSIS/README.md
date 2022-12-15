@@ -52,4 +52,9 @@ Por fim, temos o **Eigenvector Centrality**, que é uma métrica que mede a impo
 
 
 ### Distribuição de centralidade
-Para esta análise vão ser levadas em consideração duas métricas mencionadas anteriormente, a Degree Centrality e a Closeness Centrality.
+Para esta análise vão ser levadas em consideração duas métricas mencionadas anteriormente, a Degree Centrality e a Closeness Centrality. A partir delas seram geradas duas funções: a PDF (Probability Density Function) e a CDF (Cumulative Density Function).
+
+Inicialmente plotamos o histograma referente ao grau dos nós para analisarmos a rede de uma forma mais ampla.
+
+(Imagem histograma)
+
