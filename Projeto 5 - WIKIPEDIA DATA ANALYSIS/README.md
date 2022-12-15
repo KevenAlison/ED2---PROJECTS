@@ -63,3 +63,9 @@ Seguindo a análise, fizemos o plot do PDF, que se trata da Função Densidade d
 <p align="center">
   <img width="70%" src="./Figuras/probability_density_function.jpg">
 </p>
+
+Em seguida foi plotado o gráfico referente ao CDFM, que se trata da Função de Distribuição Acumulada. Essa função basicamente estima a probabilidade de uma variável aleatória X ser menor ou igual a dado valor Y. Para nosso contexto basicamente ela vai estimar a probabilidade de uma certa quantidade de nós possuirem valor menor ou igual a um determinado grau de centralidade.
+
+<p align="center">
+  <img width="70%" src="./Figuras/cumulative_density_function.jpg">
+</p>
