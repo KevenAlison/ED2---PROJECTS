@@ -54,7 +54,12 @@ Por fim, temos o **Eigenvector Centrality**, que é uma métrica que mede a impo
 ### Distribuição de centralidade
 Para esta análise vão ser levadas em consideração duas métricas mencionadas anteriormente, a Degree Centrality e a Closeness Centrality. A partir delas seram geradas duas funções: a PDF (Probability Density Function) e a CDF (Cumulative Density Function).
 
-Inicialmente plotamos o histograma referente ao grau dos nós para analisarmos a rede de uma forma mais ampla.
+Inicialmente plotamos o histograma referente ao grau dos nós para analisarmos a rede de uma forma mais ampla. A partir dele é possível observar que grande maioria dos nós está na faixa do grau xx.
 
 (Imagem histograma)
 
+Seguindo a análise, fizemos o plot do PDF, que se trata da Função Densidade de Probabilidade. Essa função basicamente estima o valor de uma variável aleatória X com base em um dado valor Y. Para nosso contexto basicamente ela vai estimar quantos nós possuem certo valor de grau de centralidade.
+
+<p align="center">
+  <img width="70%" src="./Figuras/probability_density_function.jpg">
+</p>
