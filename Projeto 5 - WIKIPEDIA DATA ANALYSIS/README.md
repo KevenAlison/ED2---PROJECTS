@@ -29,26 +29,25 @@ A primeira métrica é o **Degree Centrality**, esta métrica representa a quant
 
 
 <p align="center">
-  <body bgcolor="white">
-  <img src="./Figuras/degree_centrality.png">
+  <img width="70%" src="./Figuras/degree_centrality.jpg">
 </p>
 
 A proxima métrica analisada foi o **Closeness Centrality**, que nos mostra a distancia média de um nó em relação aos demais.
 
 <p align="center">
-  <img src="./Figuras/closeness_centrality.png">
+  <img width="70%" src="./Figuras/closeness_centrality.jpg">
 </p>
 
 Em seguida foi a vez de analisar o **Betweenness Centrality** dos nós da nossa rede, essa métrica diz respeito à frequencia que um nó serve de "passagem" para a conexão de seus nós vizinhos.
 
 <p align="center">
-  <img src="./Figuras/betweenness_centrality.png">
+  <img width="70%" src="./Figuras/betweenness_centrality.jpg">
 </p>
 
 Por fim, temos o **Eigenvector Centrality**, que é uma métrica que mede a importância de um nó baseado na sua vizinhança.
 
 <p align="center">
-  <img src="./Figuras/eigenvector_centrality.png">
+  <img width="70%" src="./Figuras/eigenvector_centrality.jpg">
 </p>
 
 
