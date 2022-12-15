@@ -27,19 +27,27 @@ Na disciplina de Algoritmo e Estrutura de Dados II, para qual o presente trabalh
 
 A primeira métrica é o **Degree Centrality**, esta métrica representa a quantidade de vizinhos que um determinado nó possui. 
 
-(Imagem Degree Centrality)
+<p align="center">
+  <img src="./Figuras/degree_centrality.png">
+</p>
 
 A proxima métrica analisada foi o **Closeness Centrality**, que nos mostra a distancia média de um nó em relação aos demais.
 
-(Imagem Degree Centrality)
+<p align="center">
+  <img src="./Figuras/closeness_centrality.png">
+</p>
 
 Em seguida foi a vez de analisar o **Betweenness Centrality** dos nós da nossa rede, essa métrica diz respeito à frequencia que um nó serve de "passagem" para a conexão de seus nós vizinhos.
 
-(Imagem Betweenness Centrality)
+<p align="center">
+  <img src="./Figuras/betweenness_centrality.png">
+</p>
 
 Por fim, temos o **Eigenvector Centrality**, que é uma métrica que mede a importância de um nó baseado na sua vizinhança.
 
-(Imagem Eigenvector Centrality)
+<p align="center">
+  <img src="./Figuras/eigenvector_centrality.png">
+</p>
 
 
 ### Distribuição de centralidade
