@@ -73,5 +73,5 @@ Em seguida foi plotado o gráfico referente ao CDFM, que se trata da Função de
 ### Análise de Distribuições
 Para uma análise mais comparativa plotamos os gráficos correspondentes às métricas para observar como se comportam em comparação às demais.
 <p align="center">
-  <img width="70%" src="./Figuras/all.jpg
+  <img width="70%" src="./Figuras/all.jpg">
 </p>
