@@ -87,3 +87,5 @@ Enquanto realizavamos nosso trabalhao percebemos certas dificuldades em analisar
 Agora que possuímos uma ferramente mais avançada, reduzimos algumas limitações na geração da nossa rede, permitindo que um grafo com mais nós e conexões fosse gerado. O grafo utilizado como base no Gephi foi o gerado na etapa de coleta e tratamento dos dados, visto anteriormente, com filtro = 3. Ele possui 99 nós e 368 arestas. A partir do grafo, utilizaremos plugins para gerar uma rede que seja capaz de transmitir suas informações visualmente através de sua divisão de acordo com a **centralidade de autovetor** (Eigenvector centrality).
 
 A centralidade de autovetor foi vista anteriormente como uma métrica que mede a importância de um nó baseado na sua vizinhança, isto é, ela mede a influência de um nó em uma rede. Assim, nós utilizaremos essa métrica para visualizar os nós com mais influência na rede da página do álbum de indie Rock "Know my Heart".
+
+Na imagem abaixo, podemos visualizar os índices mais comuns de centralidade de autovetor presentes na rede.
