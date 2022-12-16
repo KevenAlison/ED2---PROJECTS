@@ -90,8 +90,14 @@ A centralidade de autovetor foi vista anteriormente como uma métrica que mede a
 
 Na imagem abaixo, podemos visualizar os índices mais e menos comuns de centralidade de autovetor presentes na rede.
 <p align="center">
-  <img width="20%" src="./Figuras/eigenvector_ranking_1.png">
+  <img width="25%" src="./Figuras/eigenvector_ranking_1.png">
 </p>
 <p align="center">
-  <img width="30%" src="./Figuras/eigenvector_ranking_2.png">
+  <img width="35%" src="./Figuras/eigenvector_ranking_2.png">
+</p>
+É possível perceber que 16.16% dos nós da rede possui uma centralidade de autovetor de 0.63, enquanto apenas 1.01% dos nós possui o índice como 1. Uma vez que a rede possui 99 nós, é possível estabelecer uma relação de 1 para 1, isto é: 16 nós possuem a centralidade de autovetor de 0.63, enquanto 1 nó possui esse valor como sendo 1.
+
+O software também nos permite visualizar as porcentagens junto com os nomes dos nós, conforme pode ser visualizado na imagem abaixo.
+<p align="center">
+  <img width="50%" src="./Figuras/eigenvector_ranking_3.png">
 </p>
