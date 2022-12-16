@@ -88,4 +88,10 @@ Agora que possuímos uma ferramente mais avançada, reduzimos algumas limitaçõ
 
 A centralidade de autovetor foi vista anteriormente como uma métrica que mede a importância de um nó baseado na sua vizinhança, isto é, ela mede a influência de um nó em uma rede. Assim, nós utilizaremos essa métrica para visualizar os nós com mais influência na rede da página do álbum de indie Rock "Know my Heart".
 
-Na imagem abaixo, podemos visualizar os índices mais comuns de centralidade de autovetor presentes na rede.
+Na imagem abaixo, podemos visualizar os índices mais e menos comuns de centralidade de autovetor presentes na rede.
+<p align="center">
+  <img width="70%" src="./Figuras/eigenvector_ranking_1.png">
+</p>
+<p align="center">
+  <img width="70%" src="./Figuras/eigenvector_ranking_2.png">
+</p>
