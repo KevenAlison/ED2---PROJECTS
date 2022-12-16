@@ -90,8 +90,8 @@ A centralidade de autovetor foi vista anteriormente como uma métrica que mede a
 
 Na imagem abaixo, podemos visualizar os índices mais e menos comuns de centralidade de autovetor presentes na rede.
 <p align="center">
-  <img width="70%" src="./Figuras/eigenvector_ranking_1.png">
+  <img width="20%" src="./Figuras/eigenvector_ranking_1.png">
 </p>
 <p align="center">
-  <img width="70%" src="./Figuras/eigenvector_ranking_2.png">
+  <img width="30%" src="./Figuras/eigenvector_ranking_2.png">
 </p>
