@@ -110,8 +110,8 @@ Desse modo, podemos observar que os nós com maior influência na rede são, res
 - Record Producer;
 - Indie Rock;
 - Rock Music.
-- 
+
 Esse resultado está de acordo com o esperado, uma vez que a página se trata de um álbum de música indie rock. O resultado também está de acordo com o que foi obtido utilizando os códigos em Python vistos acima.
 
 A visualização da rede com base na métrica de centralidade de autovetor está disponível abaixo.
-!(./Figuras/eigenvector_centrality.png)
+![Imagem](./Figuras/eigenvector_centrality.png)
