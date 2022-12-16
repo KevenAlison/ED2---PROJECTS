@@ -99,5 +99,11 @@ Na imagem abaixo, podemos visualizar os índices mais e menos comuns de centrali
 
 O software também nos permite visualizar as porcentagens junto com os nomes dos nós, conforme pode ser visualizado na imagem abaixo.
 <p align="center">
-  <img width="50%" src="./Figuras/eigenvector_ranking_3.png">
+  <img width="60%" src="./Figuras/eigenvector_ranking_3.png">
 </p>
+
+Desse modo, podemos observar que os nós com maior influência na rede são, respectivamente:
+- Record Producer;
+- Indie Rock;
+- Rock Music.
+Esse resultado está de acordo com o esperado, uma vez que a página se trata de um álbum de música indie rock.
