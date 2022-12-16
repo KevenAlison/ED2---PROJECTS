@@ -115,5 +115,5 @@ Esse resultado está de acordo com o esperado, uma vez que a página se trata de
 
 A visualização da rede com base na métrica de centralidade de autovetor está disponível abaixo.
 <p align="center">
-  <src="./Figuras/eigenvector_visualization.png">
+  <img width="70%" src="./Figuras/eigenvector_visualization.png">
 </p>
