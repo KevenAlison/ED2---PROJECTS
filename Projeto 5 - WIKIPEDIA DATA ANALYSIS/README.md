@@ -81,7 +81,9 @@ Para uma análise mais comparativa plotamos os gráficos correspondentes às mé
   <img width="70%" src="./Figuras/k-core_sociopatterns.jpg">
 </p>
 
-### Análise dos dados através do Software GELPHI
-Enquanto realizavamos nosso trabalhao percebemos certas dificuldades em analisar a nossa rede quando ela estava muito extensa, fazendo com que reduzissemos bastante o numero de nós e links para que fosse possível uma visualização mais legível. Visando uma análise mais detalhada sobre a rede, utilizamos o software Gelphi para visualizarmos a nossa rede e suas características.
+### Análise dos dados através do Software GEPHI
+Enquanto realizavamos nosso trabalhao percebemos certas dificuldades em analisar a nossa rede quando ela estava muito extensa, fazendo com que reduzíssemos bastante o numero de nós e links para que fosse possível uma visualização mais legível. Visando uma análise mais detalhada sobre a rede, utilizamos o software Gephi para visualizarmos a nossa rede e suas características.
 
-Agora que possuimos uma ferramente mais avançada, reduzimos algumas limitações na geração da nossa rede, permitindo que um grafo com mais nós e conexões fosse gerado. A partir dele utilizaremos plugins para gerar uma rede que seja capaz de transmitir suas informações visualmente através de sua divisão em comunidades, os quais representarão uma determinada métrica desejada.
+Agora que possuímos uma ferramente mais avançada, reduzimos algumas limitações na geração da nossa rede, permitindo que um grafo com mais nós e conexões fosse gerado. O grafo utilizado como base no Gephi foi o gerado na etapa de coleta e tratamento dos dados, visto anteriormente, com filtro = 3. Ele possui 99 nós e 368 arestas. A partir do grafo, utilizaremos plugins para gerar uma rede que seja capaz de transmitir suas informações visualmente através de sua divisão de acordo com a **centralidade de autovetor** (Eigenvector centrality).
+
+A centralidade de autovetor foi vista anteriormente como uma métrica que mede a importância de um nó baseado na sua vizinhança, isto é, ela mede a influência de um nó em uma rede. Assim, nós utilizaremos essa métrica para visualizar os nós com mais influência na rede da página do álbum de indie Rock "Know my Heart".
