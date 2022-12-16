@@ -121,4 +121,4 @@ A visualização da rede com base na métrica de centralidade de autovetor está
 
 Na visualização criada, o tamanho dos nós cresce de acordo com a centralidade de autovetor. Além disso, os nós que possuem essa métrica acima de 0.8 estão nomeados na figura.
 
-O link para interação com a rede coloridada de acordo com a métrica criada está disponível [aqui](). 
+O link para interação com a rede coloridada de acordo com a métrica criada está disponível [aqui](https://kevenalison.github.io/ED2---PROJECTS/network/#). 
