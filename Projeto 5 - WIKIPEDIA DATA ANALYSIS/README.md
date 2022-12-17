@@ -35,19 +35,19 @@ A primeira métrica é o **Degree Centrality**, esta métrica representa a quant
 A proxima métrica analisada foi o **Closeness Centrality**, que nos mostra a distancia média de um nó em relação aos demais.
 
 <p align="center">
-  <img width="70%" src="./Figuras/closeness_centrality.jpg">
+  <img src="./Figuras/closeness_centrality.jpg">
 </p>
 
 Em seguida foi a vez de analisar o **Betweenness Centrality** dos nós da nossa rede, essa métrica diz respeito à frequencia que um nó serve de "passagem" para a conexão de seus nós vizinhos.
 
 <p align="center">
-  <img width="70%" src="./Figuras/betweenness_centrality.jpg">
+  <img src="./Figuras/betweenness_centrality.jpg">
 </p>
 
 Por fim, temos o **Eigenvector Centrality**, que é uma métrica que mede a importância de um nó baseado na sua vizinhança.
 
 <p align="center">
-  <img width="70%" src="./Figuras/eigenvector_centrality.jpg">
+  <img src="./Figuras/eigenvector_centrality.jpg">
 </p>
 
 
@@ -61,24 +61,24 @@ Inicialmente plotamos o histograma referente ao grau dos nós para analisarmos a
 Seguindo a análise, fizemos o plot do PDF, que se trata da Função Densidade de Probabilidade. Essa função basicamente estima o valor de uma variável aleatória X com base em um dado valor Y. Para nosso contexto basicamente ela vai estimar quantos nós possuem certo valor de grau de centralidade.
 
 <p align="center">
-  <img width="70%" src="./Figuras/probability_density_function.jpg">
+  <img src="./Figuras/probability_density_function.jpg">
 </p>
 
 Em seguida foi plotado o gráfico referente ao CDFM, que se trata da Função de Distribuição Acumulada. Essa função basicamente estima a probabilidade de uma variável aleatória X ser menor ou igual a dado valor Y. Para nosso contexto basicamente ela vai estimar a probabilidade de uma certa quantidade de nós possuirem valor menor ou igual a um determinado grau de centralidade.
 
 <p align="center">
-  <img width="70%" src="./Figuras/cumulative_density_function.jpg">
+  <img src="./Figuras/cumulative_density_function.jpg">
 </p>
 
 ### Análise de Distribuições
 Para uma análise mais comparativa plotamos os gráficos correspondentes às métricas para observar como se comportam em comparação às demais.
 <p align="center">
-  <img width="70%" src="./Figuras/all.jpg">
+  <img src="./Figuras/all.jpg">
 </p>
 
 ### Decomposição do Core
 <p align="center">
-  <img width="70%" src="./Figuras/k-core_sociopatterns.jpg">
+  <img src="./Figuras/k-core_sociopatterns.jpg">
 </p>
 
 ### Análise dos dados através do Software GEPHI
@@ -91,11 +91,11 @@ A centralidade de autovetor foi vista anteriormente como uma métrica que mede a
 Na imagem abaixo, podemos visualizar os índices mais e menos comuns de centralidade de autovetor presentes na rede.
 
 <p align="center">
-  <img width="25%" src="./Figuras/eigenvector_ranking_1.png">
+  <img src="./Figuras/eigenvector_ranking_1.png">
 </p>
 
 <p align="center">
-  <img width="35%" src="./Figuras/eigenvector_ranking_2.png">
+  <img src="./Figuras/eigenvector_ranking_2.png">
 </p>
 
 É possível perceber que 16.16% dos nós da rede possui uma centralidade de autovetor de 0.63, enquanto apenas 1.01% dos nós possui o índice como 1. Uma vez que a rede possui 99 nós, é possível estabelecer uma relação de 1 para 1, isto é: 16 nós possuem a centralidade de autovetor de 0.63, enquanto 1 nó possui esse valor como sendo 1.
@@ -103,7 +103,7 @@ Na imagem abaixo, podemos visualizar os índices mais e menos comuns de centrali
 O software também nos permite visualizar as porcentagens junto com os nomes dos nós, conforme pode ser visualizado na imagem abaixo.
 
 <p align="center">
-  <img width="60%" src="./Figuras/eigenvector_ranking_3.png">
+  <img src="./Figuras/eigenvector_ranking_3.png">
 </p>
 
 Desse modo, podemos observar que os nós com maior influência na rede são, respectivamente:
@@ -116,7 +116,7 @@ Esse resultado está de acordo com o esperado, uma vez que a página se trata de
 A visualização da rede com base na métrica de centralidade de autovetor está disponível abaixo.
 
 <p align="center">
-  <img width="70%" src="./Figuras/eigenvector_visualization.png">
+  <img src="./Figuras/eigenvector_visualization.png">
 </p>
 
 Na visualização criada, o tamanho dos nós cresce de acordo com a centralidade de autovetor. Além disso, os nós que possuem essa métrica acima de 0.8 estão nomeados na figura.
