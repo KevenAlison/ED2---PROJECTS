@@ -29,7 +29,7 @@ A primeira métrica é o **Degree Centrality**, esta métrica representa a quant
 
 
 <p align="center">
-  <img width="70%" src="./Figuras/degree_centrality.jpg">
+  <img src="./Figuras/degree_centrality.jpg">
 </p>
 
 A proxima métrica analisada foi o **Closeness Centrality**, que nos mostra a distancia média de um nó em relação aos demais.
