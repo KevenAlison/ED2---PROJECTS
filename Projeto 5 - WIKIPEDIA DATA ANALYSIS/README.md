@@ -123,12 +123,28 @@ A visualização da rede com base na métrica de centralidade de autovetor está
 
 Na visualização criada, o tamanho dos nós cresce de acordo com a centralidade de autovetor. Além disso, os nós que possuem essa métrica acima de 0.8 estão nomeados na figura.
 
-O link para interação com a rede coloridada de acordo com a métrica criada está disponível [aqui](https://kevenalison.github.io/ED2---PROJECTS/network/#).
+O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui](https://kevenalison.github.io/ED2---PROJECTS/network/#).
 
 #### Análise 2: Distribuição de grau
 Em uma rede, o grau de um nó corresponde ao número de conexões que esse nó possui com outros nós. Para a rede da página do álbum Know by Heart, temos as seguintes estatísticas:
 
-*imagem 
+<p align="center">
+  <img src="./Figuras/degree_ranking_1.png">
+</p>
+
+<p align="center">
+  <img src="./Figuras/degree_ranking_2.png">
+</p>
+
+Nas imagens acima, podemos observar que os nós com maior quantidade de conexões correspondem às páginas, respectivamente: Album, Record Label, Music Genre, Indie Rock, Death Cab For Cutie e The Postal Service.
+
+A visualização da rede com base na métrica de distribuição do grau está disponível abaixo.
+
+<p align="center">
+  <img src="./Figuras/degree.png">
+</p>
+
+O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui]().
 
 ### Uma outra visualização: utilização do GEPHISTO
 
