@@ -148,6 +148,24 @@ O link para interação com a rede colorida de acordo com a métrica criada est�
 
 #### Análise 3: *Excentricidade*
 
+A métrica da excentricidade consiste na distância de um nó inicial até o nó mais afastado dele na rede. As estatísticas para essa métrica podem ser visualizadas abaixo:
+
+<p align="center">
+  <img src="./Figuras/eccentricity_ranking_1.png">
+</p>
+
+<p align="center">
+  <img src="./Figuras/eccentricity_ranking_2.png">
+</p>
+
+Com base nessas informações, podemos inferir que a grande maioria dos nós estão próximos um do outro, e aproximadamente 20% estão mais afastados entre si. É possível observar que alguns dos nós com maior excentricidade também possuem um grau alto, conforme visto na análise acima. Isso nos motra que esses nós não apenas possuem mais conexões, como também estão conectados a nós mais afastados.
+
+<p align="center">
+  <img src="./Figuras/eccentricity.png">
+</p>
+
+O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui](https://gabrielaact.github.io/netdeploy-1/network/).
+
 ### Uma outra visualização: utilização do GEPHISTO
 
 O Gephisto corresponde a outra maneira de visualizar uma rede. Disponibilizada no [Github de um dos criadores do Gephi](https://jacomyma.github.io/gephisto/), o software gera uma visualização diferente para o grafo, em que o tamanho dos nós dependem do grau de cada um e todos possuem a mesma cor. O grafo para a rede da página do álbum "Know my Heart" pode ser observado abaixo:
