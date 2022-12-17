@@ -121,4 +121,8 @@ A visualização da rede com base na métrica de centralidade de autovetor está
 
 Na visualização criada, o tamanho dos nós cresce de acordo com a centralidade de autovetor. Além disso, os nós que possuem essa métrica acima de 0.8 estão nomeados na figura.
 
-O link para interação com a rede coloridada de acordo com a métrica criada está disponível [aqui](https://kevenalison.github.io/ED2---PROJECTS/network/#). 
+O link para interação com a rede coloridada de acordo com a métrica criada está disponível [aqui](https://kevenalison.github.io/ED2---PROJECTS/network/#).
+
+### Uma outra visualização: utilização do GEPHISTO
+
+O Gephisto corresponde a outra maneira de visualizar uma rede. Disponibilizada no [Github de um dos criadores do Gephi](https://jacomyma.github.io/gephisto/), o software gera uma visualização diferente para o grafo, em que o tamanho dos nós dependem do grau de cada um e todos possuem a mesma cor. O grafo para a rede da página do álbum "Know my Heart" pode ser observado abaixo:
