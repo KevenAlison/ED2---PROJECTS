@@ -164,7 +164,7 @@ Com base nessas informações, podemos inferir que a grande maioria dos nós est
   <img src="./Figuras/eccentricity.png">
 </p>
 
-O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui](https://gabrielaact.github.io/netdeploy-1/network/).
+O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui](https://gabrielaact.github.io/netdeploy-2/network/).
 
 ### Uma outra visualização: utilização do GEPHISTO
 
