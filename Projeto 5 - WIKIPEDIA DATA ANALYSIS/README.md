@@ -126,3 +126,7 @@ O link para interação com a rede coloridada de acordo com a métrica criada es
 ### Uma outra visualização: utilização do GEPHISTO
 
 O Gephisto corresponde a outra maneira de visualizar uma rede. Disponibilizada no [Github de um dos criadores do Gephi](https://jacomyma.github.io/gephisto/), o software gera uma visualização diferente para o grafo, em que o tamanho dos nós dependem do grau de cada um e todos possuem a mesma cor. O grafo para a rede da página do álbum "Know my Heart" pode ser observado abaixo:
+
+<p align="center">
+  <img src="./Figuras/gephisto_network_map.png">
+</p>
