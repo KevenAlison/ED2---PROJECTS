@@ -84,7 +84,9 @@ Para uma análise mais comparativa plotamos os gráficos correspondentes às mé
 ### Análise dos dados através do Software GEPHI
 Enquanto realizavamos nosso trabalhao percebemos certas dificuldades em analisar a nossa rede quando ela estava muito extensa, fazendo com que reduzíssemos bastante o numero de nós e links para que fosse possível uma visualização mais legível. Visando uma análise mais detalhada sobre a rede, utilizamos o software Gephi para visualizarmos a nossa rede e suas características.
 
-Agora que possuímos uma ferramente mais avançada, reduzimos algumas limitações na geração da nossa rede, permitindo que um grafo com mais nós e conexões fosse gerado. O grafo utilizado como base no Gephi foi o gerado na etapa de coleta e tratamento dos dados, visto anteriormente, com filtro = 3, [disponível aqui](https://github.com/KevenAlison/ED2---PROJECTS/blob/main/Projeto%205%20-%20WIKIPEDIA%20DATA%20ANALYSIS/WikipediaNetwork.graphml). Ele possui 99 nós e 368 arestas. A partir do grafo, utilizaremos plugins para gerar uma rede que seja capaz de transmitir suas informações visualmente através de sua divisão de acordo com a **centralidade de autovetor** (Eigenvector centrality).
+Agora que possuímos uma ferramente mais avançada, reduzimos algumas limitações na geração da nossa rede, permitindo que um grafo com mais nós e conexões fosse gerado. O grafo utilizado como base no Gephi foi o gerado na etapa de coleta e tratamento dos dados, visto anteriormente, com filtro = 3, [disponível aqui](https://github.com/KevenAlison/ED2---PROJECTS/blob/main/Projeto%205%20-%20WIKIPEDIA%20DATA%20ANALYSIS/WikipediaNetwork.graphml). Ele possui 99 nós e 368 arestas. A partir do grafo, utilizaremos plugins para gerar uma rede que seja capaz de transmitir suas informações visualmente através de sua divisão de acordo com 3 diferentes métricas.
+
+#### Análise 1: **Centralidade de autovetor** (Eigenvector centrality)
 
 A centralidade de autovetor foi vista anteriormente como uma métrica que mede a importância de um nó baseado na sua vizinhança, isto é, ela mede a influência de um nó em uma rede. Assim, nós utilizaremos essa métrica para visualizar os nós com mais influência na rede da página do álbum de indie Rock "Know my Heart".
 
@@ -122,6 +124,11 @@ A visualização da rede com base na métrica de centralidade de autovetor está
 Na visualização criada, o tamanho dos nós cresce de acordo com a centralidade de autovetor. Além disso, os nós que possuem essa métrica acima de 0.8 estão nomeados na figura.
 
 O link para interação com a rede coloridada de acordo com a métrica criada está disponível [aqui](https://kevenalison.github.io/ED2---PROJECTS/network/#).
+
+#### Análise 2: Distribuição de grau
+Em uma rede, o grau de um nó corresponde ao número de conexões que esse nó possui com outros nós. Para a rede da página do álbum Know by Heart, temos as seguintes estatísticas:
+
+*imagem 
 
 ### Uma outra visualização: utilização do GEPHISTO
 
