@@ -144,7 +144,9 @@ A visualização da rede com base na métrica de distribuição do grau está di
   <img src="./Figuras/degree.png">
 </p>
 
-O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui]().
+O link para interação com a rede colorida de acordo com a métrica criada está disponível [aqui](https://gabrielaact.github.io/netdeploy-1/network/).
+
+#### Análise 3: *Excentricidade*
 
 ### Uma outra visualização: utilização do GEPHISTO
 
