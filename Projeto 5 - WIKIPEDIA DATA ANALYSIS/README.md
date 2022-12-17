@@ -15,8 +15,39 @@ Este trabalho tem como objetivo fazer uma análise de uma rede digirida gerada a
 
 Inicialmente foi feita a coleta dos dados e sua devida inserção em formato de grafo. Para isso é definida uma SEED, que neste caso é o nome da página que desejamos ter como ponto de partida, e os STOPS, que são os pontos de parada da busca por links.
 
-Como vamos realizar análises métricas para os dados coletados, é necessário realizar uma filtragem para melhorar os resultados que serão obtidos. Para isso, utilizamos duas etapas de filtragem de dados, na primeira eliminamos dados duplicados, e na segunda, dados que possuem apenas x vizinhos.
+Como vamos realizar análises métricas para os dados coletados, é necessário realizar uma filtragem para melhorar os resultados que serão obtidos. Para isso, utilizamos duas etapas de filtragem de dados, na primeira eliminamos dados duplicados, e na segunda, dados que possuem menos que 20 vizinhos.
 
+## Como executar este projeto
+
+Caso seja do seu interesse utilizar este projeto para realizar uma análise própria, basta clonar este repositório e alterar o valor da SEED do [Notebook](./T3_2_ED2.ipynb). Caso seja de interesse também é possível alterar os pontos de parada STOPS para se adequar à sua análise.
+
+```python
+SEED = "Know by Heart".title()
+STOPS = ("International Standard Serial Number",
+         "International Standard Book Number",
+         "National Diet Library",
+         "International Standard Name Identifier",
+         "International Standard Book Number (Identifier)",
+         "Pubmed Identifier", 
+         "Pubmed Central",
+         "Digital Object Identifier", 
+         "Arxiv",
+         "Proc Natl Acad Sci Usa", 
+         "Bibcode",
+         "Library Of Congress Control Number", 
+         "Jstor",
+         "Doi (Identifier)",
+         "Isbn (Identifier)",
+         "Pmid (Identifier)",
+         "Arxiv (Identifier)",
+         "Bibcode (Identifier)")
+```
+Além disso, para limitar a quantidade de vizinhos da sua rede, é possível modificar também através do Notebook referenciado.
+
+```python
+# filter nodes with degree greater than or equal to 20
+core = [node for node, deg in dict(g.degree()).items() if deg >= 20]
+```
 ## Análise dos dados
 
 ### Análise Métrica
@@ -173,3 +204,6 @@ O Gephisto corresponde a outra maneira de visualizar uma rede. Disponibilizada n
 <p align="center">
   <img src="./Figuras/gephisto_network_map.png">
 </p>
+
+## Análise de métricas utiizando a ferramente Retina
+Para uma análise mais interativa das métricas apresentadas neste projeto, utilizamos a ferramenta online, que pode ser acessada [Clicando aqui](https://ouestware.gitlab.io/retina/beta/#/). Para o nosso projeto, fizemos um vídeo explicando algumas das métricas da nossa [REDE](./T3_2_ED2.ipynb). [LINK DO VIDEO]()
