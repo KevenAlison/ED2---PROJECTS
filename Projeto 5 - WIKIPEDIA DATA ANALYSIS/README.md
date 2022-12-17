@@ -15,8 +15,6 @@ Este trabalho tem como objetivo fazer uma análise de uma rede digirida gerada a
 
 Inicialmente foi feita a coleta dos dados e sua devida inserção em formato de grafo. Para isso é definida uma SEED, que neste caso é o nome da página que desejamos ter como ponto de partida, e os STOPS, que são os pontos de parada da busca por links.
 
-(código e imagem do grafo)
-
 Como vamos realizar análises métricas para os dados coletados, é necessário realizar uma filtragem para melhorar os resultados que serão obtidos. Para isso, utilizamos duas etapas de filtragem de dados, na primeira eliminamos dados duplicados, e na segunda, dados que possuem apenas x vizinhos.
 
 ## Análise dos dados
@@ -54,9 +52,11 @@ Por fim, temos o **Eigenvector Centrality**, que é uma métrica que mede a impo
 ### Distribuição de centralidade
 Para esta análise vão ser levadas em consideração duas métricas mencionadas anteriormente, a Degree Centrality e a Closeness Centrality. A partir delas seram geradas duas funções: a PDF (Probability Density Function) e a CDF (Cumulative Density Function).
 
-Inicialmente plotamos o histograma referente ao grau dos nós para analisarmos a rede de uma forma mais ampla. A partir dele é possível observar que grande maioria dos nós está na faixa do grau xx.
+Inicialmente plotamos o histograma referente ao grau dos nós para analisarmos a rede de uma forma mais ampla. A partir dele é possível observar que grande maioria dos nós está na faixa do grau 8 para baixo.
 
-(Imagem histograma)
+<p align="center">
+  <img src="./Figuras/degree_probability_histogram.PNG">
+</p>
 
 Seguindo a análise, fizemos o plot do PDF, que se trata da Função Densidade de Probabilidade. Essa função basicamente estima o valor de uma variável aleatória X com base em um dado valor Y. Para nosso contexto basicamente ela vai estimar quantos nós possuem certo valor de grau de centralidade.
 
