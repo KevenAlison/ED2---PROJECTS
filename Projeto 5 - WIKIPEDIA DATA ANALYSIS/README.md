@@ -206,4 +206,4 @@ O Gephisto corresponde a outra maneira de visualizar uma rede. Disponibilizada n
 </p>
 
 ## Análise de métricas utiizando a ferramente Retina
-Para uma análise mais interativa das métricas apresentadas neste projeto, utilizamos a ferramenta online, que pode ser acessada [Clicando aqui](https://ouestware.gitlab.io/retina/beta/#/). Para o nosso projeto, fizemos um vídeo explicando algumas das métricas da nossa [REDE](./T3_2_ED2.ipynb). [LINK DO VIDEO]()
+Para uma análise mais interativa das métricas apresentadas neste projeto, utilizamos a ferramenta online, que pode ser acessada [Clicando aqui](https://ouestware.gitlab.io/retina/beta/#/). Para o nosso projeto, fizemos um vídeo explicando algumas das métricas da nossa [REDE](./T3_2_ED2.ipynb). [LINK DO VIDEO](https://www.loom.com/share/199b39e75a5c4b22ad4faa9aaff951c3)
