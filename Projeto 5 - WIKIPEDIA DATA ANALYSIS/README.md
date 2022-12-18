@@ -1,4 +1,4 @@
-# Trabalho 03 - Unidade 02
+# Trabalho FINAL ED2 - UFRN
 ## Directed Graph: Building a network with wikipedia
 
 # Integrantes
